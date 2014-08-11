@@ -1,4 +1,4 @@
-Hashing-Your-Tabs
+Hashing Your Tabs
 =================
 
 SPA example creating tabs that reflect and update location.hash using the following technology:
