@@ -1,7 +1,7 @@
 Hashing Your Tabs
 =================
 
-SPA example creating tabs that reflect and update location.hash using the following technology:
+SPA example creating tabs that reflect and update location.hash using the following tech:
 - Jquery
 - Backbone.js
 - Require.js
